@@ -1,0 +1,6 @@
+gradio
+pickle
+numpy
+stramlit
+pandas
+sklearn
