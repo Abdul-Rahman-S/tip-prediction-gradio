@@ -1,5 +1,5 @@
 gradio
 numpy
-stramlit
+streamlit
 pandas
 scikit-learn
